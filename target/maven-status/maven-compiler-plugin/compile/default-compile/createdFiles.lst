@@ -1,0 +1,8 @@
+Main.class
+main\first\First.class
+main\first\inside\Inside.class
+second\Second.class
+annotations\MyComponent.class
+annotations\MyAutowired.class
+context\MyContext.class
+context\MyContextLogic.class
